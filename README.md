@@ -1,18 +1,17 @@
 # Text-Summarization-Techniques
-This project covers text summarization using various techniques.
+This notebook covers some basic text summarization techniques.
 
-Pre-required:-
-1. Basic concepts of NLP
+## Required Knowledge
+Basic concepts of NLP
 
-Tools used:-
+## Tools/Packages Used
 1. Gensim
 2. Sumy
 
-Example of the output and the input:-
-  Provided in the Notebook.
-
+## Implementation
 The .ipynb file contains all the code required using GENISIM, SUMY.
-Topics covered:-
+
+## Topics covered
 1. LexRank
 2. LuhnSummarizer
 3. PlaintextParser
